@@ -7,9 +7,27 @@ node_modules/
 # Email list and report files
 email_list.txt
 email_sending_report.json
-emails.text
-
-
+emails.txt
 
 # IDE settings
 .vscode/
+
+# Logs
+*.log
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+
+# Build output
+/dist
+/build
+
+# Debug files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*

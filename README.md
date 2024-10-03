@@ -93,4 +93,4 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 - [OAuth 2.0 for Web Server Applications](https://developers.google.com/identity/protocols/oauth2/web-server)
 - [Sending Multiple Emails With Attachment and Cover Letter using Gmail and Nodemailer][def]
 
-[def]: https://www.notion.so/Sending-Multiple-Emails-With-Attachment-and-Cover-Letter-using-Gmail-and-Nodemailer-114fed47ba1f80c4a475c11cd2a11705?pvs=4
+[def]: https://ahead-rhinoceros-d4f.notion.site/Sending-Multiple-Emails-With-Attachment-and-Cover-Letter-using-Gmail-and-Nodemailer-114fed47ba1f80c4a475c11cd2a11705
