@@ -1,0 +1,15 @@
+# npm installed modules
+node_modules/
+
+# Environment Variables
+.env
+
+# Email list and report files
+email_list.txt
+email_sending_report.json
+emails.text
+
+
+
+# IDE settings
+.vscode/
